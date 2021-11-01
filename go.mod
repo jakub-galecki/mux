@@ -1,3 +1,3 @@
-module github.com/mux
+module github.com/jakub-galecki/mux
 
 go 1.17
